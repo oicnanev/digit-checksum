@@ -1,0 +1,17 @@
+
+     `7MMF' .M"""bgd `7MM"""YMM  `7MMF'                    `7MMF'      `7MM"""YMM  `7MMF'  .g8"""bgd
+       MM  ,MI    "Y   MM    `7    MM                        MM          MM    `7    MM  .dP'     `M
+       MM  `MMb.       MM   d      MM                        MM          MM   d      MM  dM'       `
+       MM    `YMMNq.   MMmmMM      MM                        MM          MMmmMM      MM  MM
+       MM  .     `MM   MM   Y  ,   MM      ,     mmmmm       MM      ,   MM   Y  ,   MM  MM.
+       MM  Mb     dM   MM     ,M   MM     ,M                 MM     ,M   MM     ,M   MM  `Mb.     ,'
+     .JMML.P"Ybmmd"  .JMMmmmmMMM .JMMmmmmMMM               .JMMmmmmMMM .JMMmmmmMMM .JMML.  `"bmmmd'
+
+ ╔═╗╦ ╦╔═╗╔═╗╦╔═╔═╗╦ ╦╔╦╗  ╔╦╗╦╔═╗╦╔╦╗  ╔═╗╔═╗╔╗╔╔═╗╦═╗╔═╗╔╦╗╔═╗╦═╗  ╔═╗╔╗╔╔╦╗  ╦  ╦╔═╗╦  ╦╔╦╗╔═╗╔╦╗╔═╗╦═╗
+ ║  ╠═╣║╣ ║  ╠╩╗╚═╗║ ║║║║   ║║║║ ╦║ ║   ║ ╦║╣ ║║║║╣ ╠╦╝╠═╣ ║ ║ ║╠╦╝  ╠═╣║║║ ║║  ╚╗╔╝╠═╣║  ║ ║║╠═╣ ║ ║ ║╠╦╝
+ ╚═╝╩ ╩╚═╝╚═╝╩ ╩╚═╝╚═╝╩ ╩  ═╩╝╩╚═╝╩ ╩   ╚═╝╚═╝╝╚╝╚═╝╩╚═╩ ╩ ╩ ╚═╝╩╚═  ╩ ╩╝╚╝═╩╝   ╚╝ ╩ ╩╩═╝╩═╩╝╩ ╩ ╩ ╚═╝╩╚═
+  @credits - LI31N - Comunicações - Grupo 04 - h_augusto (32398), f_teixeira (39619), n_venancio (45824)
+
+ This program generates valid checksum digits for portuguese identity card numbers (BI, CC, NIF, NISS) and
+ banking numbers (NIB and portuguese IBAN), amd international ISBNs, and banking credit/debit card numbers.
+ In the other hand, it also validates the same type of card numbers and ISBNs.
