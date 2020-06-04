@@ -325,7 +325,7 @@ class ChecksumView(object):
         # open and print the file banner.txt (must be in the same directory
         # of this script) use the keyword 'with' so the stream is automatically
         # closed after use
-        with open(f'{path_dir}{os.sep}banner.txt', 'r') as file:
+        with open(f'{path_dir}{os.sep}banner.txt', 'r', encoding='utf8') as file:
             line = file.readline()
             while line:
                 print(line, end='')
