@@ -21,7 +21,7 @@ $ python3 digit_checksum.py
 The app in the [Model-View-Controller](https://en.wikipedia.org/wiki/Model%E2%80%93view%E2%80%93controller) architecture and has 3 classes ChecksumController, ChecksumView and ChecksumModel
 ![uml](uml.png)
 
-##
+## Goal
 The primary goal for this app was a pratical assignment for the unit Digital Comunications at [LEIC - ISEL](https://www.isel.pt/curso/licenciatura/licenciatura-em-engenharia-informatica-e-de-computadores)
 
 ## License
