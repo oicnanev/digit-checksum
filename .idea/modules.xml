@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/../digit_checksum/.idea/digit_checksum.iml" filepath="$PROJECT_DIR$/../digit_checksum/.idea/digit_checksum.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/digit-checksum.iml" filepath="$PROJECT_DIR$/.idea/digit-checksum.iml" />
     </modules>
   </component>
 </project>
